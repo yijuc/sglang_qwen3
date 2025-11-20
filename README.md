@@ -1,4 +1,7 @@
-## Run Qwen3-Next-80B-A3B-Instruct-FP8 and Qwen3-Next-80B-A3B-Instruct
+Run Qwen3 models on rocm/ali-private:ubuntu22.04_rocm7.0.1_sglang_rebase_20251119 docker
+
+## Qwen3-Next-80B-A3B-Instruct-FP8 and Qwen3-Next-80B-A3B-Instruct
+
 ```bash
 # qwen3_next.py plugin
 cp /sgl-workspace/sglang/python/sglang/srt/models/qwen3_next.py /sgl-workspace/sglang/python/sglang/srt/models/qwen3_next.py.bk
